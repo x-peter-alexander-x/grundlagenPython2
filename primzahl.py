@@ -1,3 +1,3 @@
 #primzahl
 #Funktion: chech if given number is prime
-#peter 
+#Wetter heute: bewölkt
